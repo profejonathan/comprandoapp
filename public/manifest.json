@@ -1,0 +1,33 @@
+{
+    "name": "Comprando App",
+    "short_name": "ComprandoApp",
+    "description": "Aplicacion de Lista de Compras",
+    "background-color": "#02b875",
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#02b875",
+    "start_url": "/?utm_source=homescreen",
+
+    "icons": [{
+      "src": "images/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+
+  }
+  
